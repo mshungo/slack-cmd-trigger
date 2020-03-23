@@ -28,7 +28,7 @@ def main():
 		)
 		
 	except (KeyboardInterrupt, SystemExit):
-		print "-> Aborted through user interaction"
+		print ("-> Aborted through user interaction")
 
 
 if __name__ == "__main__":
